@@ -1,0 +1,12 @@
+D:\EngMohamedProject\Mohamed Beba Project\bin\Debug\Mohamed Beba Project.exe.config
+D:\EngMohamedProject\Mohamed Beba Project\bin\Debug\Mohamed Beba Project.exe
+D:\EngMohamedProject\Mohamed Beba Project\bin\Debug\Mohamed Beba Project.pdb
+D:\EngMohamedProject\Mohamed Beba Project\obj\Debug\Mohamed Beba Project.csproj.AssemblyReference.cache
+D:\EngMohamedProject\Mohamed Beba Project\obj\Debug\Mohamed_Beba_Project.Properties.Resources.resources
+D:\EngMohamedProject\Mohamed Beba Project\obj\Debug\Mohamed Beba Project.csproj.GenerateResource.cache
+D:\EngMohamedProject\Mohamed Beba Project\obj\Debug\Mohamed Beba Project.csproj.CoreCompileInputs.cache
+D:\EngMohamedProject\Mohamed Beba Project\obj\Debug\Mohamed Beba Project.exe
+D:\EngMohamedProject\Mohamed Beba Project\obj\Debug\Mohamed Beba Project.pdb
+D:\EngMohamedProject\Mohamed Beba Project\obj\Debug\Mohamed_Beba_Project.Login.resources
+D:\EngMohamedProject\Mohamed Beba Project\obj\Debug\Mohamed_Beba_Project.TotalSells.resources
+D:\EngMohamedProject\Mohamed Beba Project\obj\Debug\Mohamed_Beba_Project.AdminDashboard.resources
